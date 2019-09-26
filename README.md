@@ -13,3 +13,6 @@
 2. Type "s" to select the object to be track
 3. Afer selecting object Press Enter
 4. To stop the video press "q"
+
+## Note
+- If video argument is empty then it will use the webcam.
