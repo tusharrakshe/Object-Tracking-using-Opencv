@@ -7,3 +7,9 @@
 - tld
 - medianflow
 - mosse
+
+### Usage
+1. Tun python  opencv_object_tracking.py -v [video path] -t [tracker name]
+2. Type "s" to select the object to be track
+3. Press Enter
+4. To stop the video press "q"
